@@ -1,3 +1,4 @@
+
 # Unity-NoVNC-for-Heroku
 **Running a VNC server + NoVNC client on Heroku app**
 
@@ -20,7 +21,7 @@
         gedit \
         xterm \
         sudo - Doesn't work because of user is given randomly by heroku \
-	firefox \
+		firefox \
         bash \
         net-tools \
         novnc \
@@ -33,7 +34,7 @@
         net-tools \
         curl \
         git \
-	wget \
+		wget \
         pwgen \
         libtasn1-3-bin \
         libglu1-mesa \
